@@ -1,0 +1,2685 @@
+{
+  "header": {
+    "id": "162238267",
+    "title": "Beschreibung",
+    "fraudReportUrl": "https://angebot-melden.immobilienscout24.de/report?realEstateId=162238267&publicationState=live",
+    "displayStatusIcon": true,
+    "shareMessage": "Dieses Angebot habe ich bei ImmoScout24 gefunden:\nhttps://www.immobilienscout24.de/expose/162238267?utm_medium=social&utm_campaign=expose_sharing&utm_content=expose_toolbar&utm_source=other&referrer=taf\n\n        Details\n-------------------------\nKaufpreis 3.430 €/m²: 439.000 €\nZimmer:         3\nWohnfläche:     128 m²\n\n74078 Neckargartach, Heilbronn",
+    "publicationState": "active",
+    "realEstateType": "apartmentbuy"
+  },
+  "sections": [
+    {
+      "type": "MEDIA",
+      "media": [
+        {
+          "type": "PICTURE",
+          "caption": "Wohnbereich",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/72097dbf-15ec-4c5c-a63e-3aa619e8155f-1948316349.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/72097dbf-15ec-4c5c-a63e-3aa619e8155f-1948316349.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/72097dbf-15ec-4c5c-a63e-3aa619e8155f-1948316349.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Nordwestansicht",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/403bfd4e-4da3-4172-8242-56a113d11fa4-1948316352.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/403bfd4e-4da3-4172-8242-56a113d11fa4-1948316352.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/403bfd4e-4da3-4172-8242-56a113d11fa4-1948316352.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Küche",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/9cb01b5b-9d47-450a-8506-4c4786123c80-1948316355.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/9cb01b5b-9d47-450a-8506-4c4786123c80-1948316355.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/9cb01b5b-9d47-450a-8506-4c4786123c80-1948316355.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Essbereich",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/c53b74fa-7aa0-4b4c-a3f8-ee761ccf5ca0-1948316358.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/c53b74fa-7aa0-4b4c-a3f8-ee761ccf5ca0-1948316358.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/c53b74fa-7aa0-4b4c-a3f8-ee761ccf5ca0-1948316358.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Flur",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/84d79f31-2975-4de8-a6bd-1c2c2367096b-1948316362.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/84d79f31-2975-4de8-a6bd-1c2c2367096b-1948316362.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/84d79f31-2975-4de8-a6bd-1c2c2367096b-1948316362.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Kinderzimmer",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/a872ddc0-b034-49f8-aeef-28df0b57596c-1948316364.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/a872ddc0-b034-49f8-aeef-28df0b57596c-1948316364.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/a872ddc0-b034-49f8-aeef-28df0b57596c-1948316364.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Schlafzimmer",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/fb3998f4-7f5b-489f-8600-21a81598967d-1948316368.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/fb3998f4-7f5b-489f-8600-21a81598967d-1948316368.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/fb3998f4-7f5b-489f-8600-21a81598967d-1948316368.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Flur",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/7fee0b0a-bd31-4e92-9b8f-f4c3061ada39-1948316371.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/7fee0b0a-bd31-4e92-9b8f-f4c3061ada39-1948316371.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/7fee0b0a-bd31-4e92-9b8f-f4c3061ada39-1948316371.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Bad",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/0a7a11a5-f3c8-4540-a940-4ec6761462db-1948316377.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/0a7a11a5-f3c8-4540-a940-4ec6761462db-1948316377.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/0a7a11a5-f3c8-4540-a940-4ec6761462db-1948316377.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Gäste-WC",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/41bd719c-0e4e-4f05-8f79-980b1873b356-1948316380.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/41bd719c-0e4e-4f05-8f79-980b1873b356-1948316380.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/41bd719c-0e4e-4f05-8f79-980b1873b356-1948316380.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Treppenhaus",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/cae2153d-94d6-416e-a30d-800951bbc38c-1948316383.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/cae2153d-94d6-416e-a30d-800951bbc38c-1948316383.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/cae2153d-94d6-416e-a30d-800951bbc38c-1948316383.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Großer Balkon",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/79c91a6e-1eae-44e7-829a-148e3352223a-1948316387.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/79c91a6e-1eae-44e7-829a-148e3352223a-1948316387.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/79c91a6e-1eae-44e7-829a-148e3352223a-1948316387.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Gartenansicht",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/4607367d-845a-4256-8eb3-6042e754c22e-1948316391.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/4607367d-845a-4256-8eb3-6042e754c22e-1948316391.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/4607367d-845a-4256-8eb3-6042e754c22e-1948316391.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        },
+        {
+          "type": "PICTURE",
+          "caption": "Garten",
+          "previewImageUrl": "https://pictures.immobilienscout24.de/listings/9578915a-8b6d-4d4f-aca0-3fb723212c87-1948316395.jpg/ORIG/resize/800x600/format/webp/quality/80",
+          "imageUrlForWeb": "https://pictures.immobilienscout24.de/listings/9578915a-8b6d-4d4f-aca0-3fb723212c87-1948316395.jpg/ORIG/legacy_thumbnail/%WIDTH%x%HEIGHT%/format/jpg",
+          "fullImageUrl": "https://pictures.immobilienscout24.de/listings/9578915a-8b6d-4d4f-aca0-3fb723212c87-1948316395.jpg/ORIG/resize/1500x1000/format/webp/quality/80",
+          "generatedImages": []
+        }
+      ]
+    },
+    {
+      "type": "TOP_ATTRIBUTES",
+      "attributes": [
+        {
+          "label": "Kaufpreis 3.430 €/m²",
+          "highlighted": true,
+          "text": "439.000 €",
+          "type": "TEXT"
+        },
+        {
+          "label": "Zimmer",
+          "text": "3",
+          "type": "TEXT"
+        },
+        {
+          "label": "Wohnfläche",
+          "text": "128 m²",
+          "type": "TEXT"
+        }
+      ]
+    },
+    {
+      "type": "TITLE",
+      "title": "Exklusive 3-Zimmer-Architektenwohnung mit zwei Balkonen, Kaminofen und moderner Einbauküche"
+    },
+    {
+      "type": "COUNTEROFFER",
+      "reference": {
+        "type": "BUTTON",
+        "target": "INTERNAL",
+        "label": "Preis vorschlagen",
+        "promoteAsNew": false,
+        "iconUrl": "https://pictures.immobilienscout24.de/dims3/S3/https://s3-eu-west-1.amazonaws.com/is24-search-static/counteroffer.png",
+        "url": "is24://counteroffer?exposeId=162238267&price=439000"
+      }
+    },
+    {
+      "type": "FINANCE_CALCULATOR",
+      "reference": {
+        "type": "BUTTON",
+        "target": "INTERNAL",
+        "label": "Finanziere ab 1.411 € / Monat",
+        "trackingConfig": {
+          "category": "expose",
+          "action": "consumerservices",
+          "label": "finance_criteria",
+          "event_name": "productintegration_click",
+          "event_product": "search",
+          "parameters": {
+            "event_parameter_1": "finance_criteria"
+          }
+        },
+        "iconUrl": "https://pictures.immobilienscout24.de/dims3/S3/https://s3-eu-west-1.amazonaws.com/is24-search-static/finance_calculator.png",
+        "url": "is24://retargetFinancing?pag_source=expose_criteria&exposeId=162238267&companyWideCustomerId=002.01007951263&fullGeoCodeId=1276001016013&postcode=74078&city=Heilbronn&quarter=Neckargartach&price=439000&funds=87800"
+      }
+    },
+    {
+      "type": "MAP",
+      "title": "Karte",
+      "addressLine1": "Die vollständige Adresse der Immobilie erhältst du vom Anbieter.",
+      "addressLine2": "74078 Neckargartach, Heilbronn",
+      "zipCodeShapes": [
+        {
+          "outline": [
+            {
+              "lat": 49.20949,
+              "lng": 9.11597
+            },
+            {
+              "lat": 49.20912,
+              "lng": 9.11704
+            },
+            {
+              "lat": 49.20873,
+              "lng": 9.11801
+            },
+            {
+              "lat": 49.20858,
+              "lng": 9.1185
+            },
+            {
+              "lat": 49.20859,
+              "lng": 9.11947
+            },
+            {
+              "lat": 49.20912,
+              "lng": 9.12691
+            },
+            {
+              "lat": 49.20802,
+              "lng": 9.13641
+            },
+            {
+              "lat": 49.20809,
+              "lng": 9.13905
+            },
+            {
+              "lat": 49.20819,
+              "lng": 9.14143
+            },
+            {
+              "lat": 49.20803,
+              "lng": 9.14181
+            },
+            {
+              "lat": 49.20849,
+              "lng": 9.14361
+            },
+            {
+              "lat": 49.20852,
+              "lng": 9.14421
+            },
+            {
+              "lat": 49.20835,
+              "lng": 9.14441
+            },
+            {
+              "lat": 49.20849,
+              "lng": 9.14862
+            },
+            {
+              "lat": 49.20821,
+              "lng": 9.14864
+            },
+            {
+              "lat": 49.20826,
+              "lng": 9.14919
+            },
+            {
+              "lat": 49.20826,
+              "lng": 9.15036
+            },
+            {
+              "lat": 49.20805,
+              "lng": 9.15162
+            },
+            {
+              "lat": 49.20777,
+              "lng": 9.15275
+            },
+            {
+              "lat": 49.20702,
+              "lng": 9.15607
+            },
+            {
+              "lat": 49.2065,
+              "lng": 9.15981
+            },
+            {
+              "lat": 49.20633,
+              "lng": 9.1599
+            },
+            {
+              "lat": 49.20607,
+              "lng": 9.15996
+            },
+            {
+              "lat": 49.20587,
+              "lng": 9.15996
+            },
+            {
+              "lat": 49.20562,
+              "lng": 9.15989
+            },
+            {
+              "lat": 49.20535,
+              "lng": 9.15975
+            },
+            {
+              "lat": 49.20525,
+              "lng": 9.15974
+            },
+            {
+              "lat": 49.20482,
+              "lng": 9.16004
+            },
+            {
+              "lat": 49.20463,
+              "lng": 9.16029
+            },
+            {
+              "lat": 49.20417,
+              "lng": 9.16056
+            },
+            {
+              "lat": 49.20381,
+              "lng": 9.16087
+            },
+            {
+              "lat": 49.20364,
+              "lng": 9.1612
+            },
+            {
+              "lat": 49.20354,
+              "lng": 9.1616
+            },
+            {
+              "lat": 49.20348,
+              "lng": 9.1622
+            },
+            {
+              "lat": 49.20347,
+              "lng": 9.16341
+            },
+            {
+              "lat": 49.20221,
+              "lng": 9.16365
+            },
+            {
+              "lat": 49.19909,
+              "lng": 9.16393
+            },
+            {
+              "lat": 49.19613,
+              "lng": 9.16334
+            },
+            {
+              "lat": 49.19255,
+              "lng": 9.16559
+            },
+            {
+              "lat": 49.19287,
+              "lng": 9.16711
+            },
+            {
+              "lat": 49.19181,
+              "lng": 9.16724
+            },
+            {
+              "lat": 49.1919,
+              "lng": 9.16913
+            },
+            {
+              "lat": 49.19247,
+              "lng": 9.16943
+            },
+            {
+              "lat": 49.19252,
+              "lng": 9.17002
+            },
+            {
+              "lat": 49.19211,
+              "lng": 9.17005
+            },
+            {
+              "lat": 49.19214,
+              "lng": 9.17206
+            },
+            {
+              "lat": 49.19205,
+              "lng": 9.17358
+            },
+            {
+              "lat": 49.19188,
+              "lng": 9.17526
+            },
+            {
+              "lat": 49.19181,
+              "lng": 9.17626
+            },
+            {
+              "lat": 49.19142,
+              "lng": 9.17628
+            },
+            {
+              "lat": 49.19164,
+              "lng": 9.17844
+            },
+            {
+              "lat": 49.19149,
+              "lng": 9.17853
+            },
+            {
+              "lat": 49.19127,
+              "lng": 9.18065
+            },
+            {
+              "lat": 49.19104,
+              "lng": 9.18099
+            },
+            {
+              "lat": 49.19074,
+              "lng": 9.18241
+            },
+            {
+              "lat": 49.19019,
+              "lng": 9.18422
+            },
+            {
+              "lat": 49.19012,
+              "lng": 9.18555
+            },
+            {
+              "lat": 49.18997,
+              "lng": 9.18751
+            },
+            {
+              "lat": 49.18936,
+              "lng": 9.18739
+            },
+            {
+              "lat": 49.18934,
+              "lng": 9.18772
+            },
+            {
+              "lat": 49.18855,
+              "lng": 9.18759
+            },
+            {
+              "lat": 49.18832,
+              "lng": 9.18908
+            },
+            {
+              "lat": 49.18777,
+              "lng": 9.1923
+            },
+            {
+              "lat": 49.18784,
+              "lng": 9.19239
+            },
+            {
+              "lat": 49.18747,
+              "lng": 9.19416
+            },
+            {
+              "lat": 49.18736,
+              "lng": 9.19484
+            },
+            {
+              "lat": 49.18708,
+              "lng": 9.19614
+            },
+            {
+              "lat": 49.18684,
+              "lng": 9.19804
+            },
+            {
+              "lat": 49.18646,
+              "lng": 9.1994
+            },
+            {
+              "lat": 49.18651,
+              "lng": 9.19962
+            },
+            {
+              "lat": 49.1866,
+              "lng": 9.19977
+            },
+            {
+              "lat": 49.18637,
+              "lng": 9.20126
+            },
+            {
+              "lat": 49.18634,
+              "lng": 9.20141
+            },
+            {
+              "lat": 49.18621,
+              "lng": 9.20169
+            },
+            {
+              "lat": 49.18606,
+              "lng": 9.2022
+            },
+            {
+              "lat": 49.18606,
+              "lng": 9.20224
+            },
+            {
+              "lat": 49.1864,
+              "lng": 9.20302
+            },
+            {
+              "lat": 49.18692,
+              "lng": 9.2054
+            },
+            {
+              "lat": 49.18702,
+              "lng": 9.20546
+            },
+            {
+              "lat": 49.1868,
+              "lng": 9.20662
+            },
+            {
+              "lat": 49.18697,
+              "lng": 9.20674
+            },
+            {
+              "lat": 49.18689,
+              "lng": 9.20725
+            },
+            {
+              "lat": 49.18668,
+              "lng": 9.20796
+            },
+            {
+              "lat": 49.18618,
+              "lng": 9.20823
+            },
+            {
+              "lat": 49.18698,
+              "lng": 9.21009
+            },
+            {
+              "lat": 49.18744,
+              "lng": 9.21098
+            },
+            {
+              "lat": 49.18772,
+              "lng": 9.2117
+            },
+            {
+              "lat": 49.18778,
+              "lng": 9.2119
+            },
+            {
+              "lat": 49.18787,
+              "lng": 9.21249
+            },
+            {
+              "lat": 49.18785,
+              "lng": 9.21287
+            },
+            {
+              "lat": 49.18755,
+              "lng": 9.21304
+            },
+            {
+              "lat": 49.18552,
+              "lng": 9.2147
+            },
+            {
+              "lat": 49.18541,
+              "lng": 9.21487
+            },
+            {
+              "lat": 49.18521,
+              "lng": 9.21478
+            },
+            {
+              "lat": 49.18453,
+              "lng": 9.21423
+            },
+            {
+              "lat": 49.18446,
+              "lng": 9.21424
+            },
+            {
+              "lat": 49.18441,
+              "lng": 9.2141
+            },
+            {
+              "lat": 49.18436,
+              "lng": 9.21409
+            },
+            {
+              "lat": 49.1843,
+              "lng": 9.21395
+            },
+            {
+              "lat": 49.18413,
+              "lng": 9.21373
+            },
+            {
+              "lat": 49.18381,
+              "lng": 9.21317
+            },
+            {
+              "lat": 49.18365,
+              "lng": 9.21285
+            },
+            {
+              "lat": 49.18343,
+              "lng": 9.21228
+            },
+            {
+              "lat": 49.18311,
+              "lng": 9.21103
+            },
+            {
+              "lat": 49.1829,
+              "lng": 9.21003
+            },
+            {
+              "lat": 49.18235,
+              "lng": 9.20712
+            },
+            {
+              "lat": 49.18214,
+              "lng": 9.20613
+            },
+            {
+              "lat": 49.182,
+              "lng": 9.20557
+            },
+            {
+              "lat": 49.18179,
+              "lng": 9.20491
+            },
+            {
+              "lat": 49.18164,
+              "lng": 9.2046
+            },
+            {
+              "lat": 49.18136,
+              "lng": 9.20414
+            },
+            {
+              "lat": 49.18088,
+              "lng": 9.20363
+            },
+            {
+              "lat": 49.18024,
+              "lng": 9.20325
+            },
+            {
+              "lat": 49.17912,
+              "lng": 9.20288
+            },
+            {
+              "lat": 49.17877,
+              "lng": 9.20283
+            },
+            {
+              "lat": 49.1784,
+              "lng": 9.20283
+            },
+            {
+              "lat": 49.1777,
+              "lng": 9.20292
+            },
+            {
+              "lat": 49.17584,
+              "lng": 9.20323
+            },
+            {
+              "lat": 49.17313,
+              "lng": 9.20384
+            },
+            {
+              "lat": 49.16915,
+              "lng": 9.20469
+            },
+            {
+              "lat": 49.1691,
+              "lng": 9.20477
+            },
+            {
+              "lat": 49.16906,
+              "lng": 9.20473
+            },
+            {
+              "lat": 49.16902,
+              "lng": 9.20478
+            },
+            {
+              "lat": 49.16895,
+              "lng": 9.20474
+            },
+            {
+              "lat": 49.16719,
+              "lng": 9.20512
+            },
+            {
+              "lat": 49.16535,
+              "lng": 9.20532
+            },
+            {
+              "lat": 49.1647,
+              "lng": 9.20537
+            },
+            {
+              "lat": 49.16356,
+              "lng": 9.20531
+            },
+            {
+              "lat": 49.16204,
+              "lng": 9.20501
+            },
+            {
+              "lat": 49.16049,
+              "lng": 9.20463
+            },
+            {
+              "lat": 49.15637,
+              "lng": 9.20371
+            },
+            {
+              "lat": 49.1535,
+              "lng": 9.2031
+            },
+            {
+              "lat": 49.15212,
+              "lng": 9.20284
+            },
+            {
+              "lat": 49.15229,
+              "lng": 9.20144
+            },
+            {
+              "lat": 49.15251,
+              "lng": 9.20069
+            },
+            {
+              "lat": 49.15286,
+              "lng": 9.20056
+            },
+            {
+              "lat": 49.15352,
+              "lng": 9.20065
+            },
+            {
+              "lat": 49.15358,
+              "lng": 9.19962
+            },
+            {
+              "lat": 49.15262,
+              "lng": 9.19925
+            },
+            {
+              "lat": 49.15262,
+              "lng": 9.19904
+            },
+            {
+              "lat": 49.15243,
+              "lng": 9.19802
+            },
+            {
+              "lat": 49.1524,
+              "lng": 9.19707
+            },
+            {
+              "lat": 49.15233,
+              "lng": 9.19703
+            },
+            {
+              "lat": 49.15236,
+              "lng": 9.19689
+            },
+            {
+              "lat": 49.15233,
+              "lng": 9.19679
+            },
+            {
+              "lat": 49.1524,
+              "lng": 9.19659
+            },
+            {
+              "lat": 49.15239,
+              "lng": 9.19534
+            },
+            {
+              "lat": 49.15191,
+              "lng": 9.18961
+            },
+            {
+              "lat": 49.15171,
+              "lng": 9.18828
+            },
+            {
+              "lat": 49.15158,
+              "lng": 9.1881
+            },
+            {
+              "lat": 49.15165,
+              "lng": 9.18773
+            },
+            {
+              "lat": 49.15153,
+              "lng": 9.18764
+            },
+            {
+              "lat": 49.15158,
+              "lng": 9.18752
+            },
+            {
+              "lat": 49.15221,
+              "lng": 9.18741
+            },
+            {
+              "lat": 49.15234,
+              "lng": 9.18745
+            },
+            {
+              "lat": 49.15241,
+              "lng": 9.18734
+            },
+            {
+              "lat": 49.15283,
+              "lng": 9.18727
+            },
+            {
+              "lat": 49.15291,
+              "lng": 9.1873
+            },
+            {
+              "lat": 49.15298,
+              "lng": 9.18722
+            },
+            {
+              "lat": 49.15324,
+              "lng": 9.18717
+            },
+            {
+              "lat": 49.15337,
+              "lng": 9.18719
+            },
+            {
+              "lat": 49.15347,
+              "lng": 9.18726
+            },
+            {
+              "lat": 49.15355,
+              "lng": 9.18722
+            },
+            {
+              "lat": 49.1537,
+              "lng": 9.18683
+            },
+            {
+              "lat": 49.15371,
+              "lng": 9.1867
+            },
+            {
+              "lat": 49.1538,
+              "lng": 9.18667
+            },
+            {
+              "lat": 49.15422,
+              "lng": 9.1862
+            },
+            {
+              "lat": 49.15436,
+              "lng": 9.18613
+            },
+            {
+              "lat": 49.15539,
+              "lng": 9.18901
+            },
+            {
+              "lat": 49.15573,
+              "lng": 9.18938
+            },
+            {
+              "lat": 49.1565,
+              "lng": 9.18969
+            },
+            {
+              "lat": 49.15664,
+              "lng": 9.18971
+            },
+            {
+              "lat": 49.15789,
+              "lng": 9.18903
+            },
+            {
+              "lat": 49.15932,
+              "lng": 9.18817
+            },
+            {
+              "lat": 49.15919,
+              "lng": 9.18599
+            },
+            {
+              "lat": 49.15892,
+              "lng": 9.18454
+            },
+            {
+              "lat": 49.15848,
+              "lng": 9.18366
+            },
+            {
+              "lat": 49.15632,
+              "lng": 9.1813
+            },
+            {
+              "lat": 49.15509,
+              "lng": 9.18113
+            },
+            {
+              "lat": 49.1539,
+              "lng": 9.18189
+            },
+            {
+              "lat": 49.15327,
+              "lng": 9.18171
+            },
+            {
+              "lat": 49.15314,
+              "lng": 9.17758
+            },
+            {
+              "lat": 49.15305,
+              "lng": 9.17781
+            },
+            {
+              "lat": 49.15134,
+              "lng": 9.17933
+            },
+            {
+              "lat": 49.15123,
+              "lng": 9.17936
+            },
+            {
+              "lat": 49.15118,
+              "lng": 9.17931
+            },
+            {
+              "lat": 49.15113,
+              "lng": 9.17936
+            },
+            {
+              "lat": 49.15102,
+              "lng": 9.17933
+            },
+            {
+              "lat": 49.15077,
+              "lng": 9.1752
+            },
+            {
+              "lat": 49.14935,
+              "lng": 9.17541
+            },
+            {
+              "lat": 49.14931,
+              "lng": 9.16674
+            },
+            {
+              "lat": 49.14764,
+              "lng": 9.16674
+            },
+            {
+              "lat": 49.14764,
+              "lng": 9.16348
+            },
+            {
+              "lat": 49.14556,
+              "lng": 9.16348
+            },
+            {
+              "lat": 49.14565,
+              "lng": 9.1606
+            },
+            {
+              "lat": 49.14522,
+              "lng": 9.16061
+            },
+            {
+              "lat": 49.14515,
+              "lng": 9.15992
+            },
+            {
+              "lat": 49.15145,
+              "lng": 9.14728
+            },
+            {
+              "lat": 49.15152,
+              "lng": 9.14679
+            },
+            {
+              "lat": 49.15155,
+              "lng": 9.14571
+            },
+            {
+              "lat": 49.1527,
+              "lng": 9.14578
+            },
+            {
+              "lat": 49.15272,
+              "lng": 9.14609
+            },
+            {
+              "lat": 49.15456,
+              "lng": 9.14606
+            },
+            {
+              "lat": 49.1542,
+              "lng": 9.1406
+            },
+            {
+              "lat": 49.15536,
+              "lng": 9.14058
+            },
+            {
+              "lat": 49.15649,
+              "lng": 9.13993
+            },
+            {
+              "lat": 49.15588,
+              "lng": 9.13798
+            },
+            {
+              "lat": 49.15661,
+              "lng": 9.13758
+            },
+            {
+              "lat": 49.15653,
+              "lng": 9.13732
+            },
+            {
+              "lat": 49.15712,
+              "lng": 9.13349
+            },
+            {
+              "lat": 49.15849,
+              "lng": 9.13344
+            },
+            {
+              "lat": 49.15986,
+              "lng": 9.13344
+            },
+            {
+              "lat": 49.15996,
+              "lng": 9.13438
+            },
+            {
+              "lat": 49.16108,
+              "lng": 9.13416
+            },
+            {
+              "lat": 49.16415,
+              "lng": 9.13311
+            },
+            {
+              "lat": 49.16403,
+              "lng": 9.13146
+            },
+            {
+              "lat": 49.16494,
+              "lng": 9.13131
+            },
+            {
+              "lat": 49.16628,
+              "lng": 9.13157
+            },
+            {
+              "lat": 49.16616,
+              "lng": 9.12969
+            },
+            {
+              "lat": 49.16623,
+              "lng": 9.12974
+            },
+            {
+              "lat": 49.16662,
+              "lng": 9.12979
+            },
+            {
+              "lat": 49.16714,
+              "lng": 9.12975
+            },
+            {
+              "lat": 49.16781,
+              "lng": 9.12997
+            },
+            {
+              "lat": 49.16809,
+              "lng": 9.13002
+            },
+            {
+              "lat": 49.16842,
+              "lng": 9.12994
+            },
+            {
+              "lat": 49.16878,
+              "lng": 9.12976
+            },
+            {
+              "lat": 49.16962,
+              "lng": 9.12929
+            },
+            {
+              "lat": 49.16985,
+              "lng": 9.12912
+            },
+            {
+              "lat": 49.17019,
+              "lng": 9.12904
+            },
+            {
+              "lat": 49.17072,
+              "lng": 9.12899
+            },
+            {
+              "lat": 49.17089,
+              "lng": 9.1256
+            },
+            {
+              "lat": 49.1709,
+              "lng": 9.12491
+            },
+            {
+              "lat": 49.17075,
+              "lng": 9.12188
+            },
+            {
+              "lat": 49.17097,
+              "lng": 9.12185
+            },
+            {
+              "lat": 49.17093,
+              "lng": 9.1208
+            },
+            {
+              "lat": 49.17082,
+              "lng": 9.12015
+            },
+            {
+              "lat": 49.17056,
+              "lng": 9.12019
+            },
+            {
+              "lat": 49.16992,
+              "lng": 9.11767
+            },
+            {
+              "lat": 49.16919,
+              "lng": 9.11551
+            },
+            {
+              "lat": 49.16912,
+              "lng": 9.11488
+            },
+            {
+              "lat": 49.16889,
+              "lng": 9.11368
+            },
+            {
+              "lat": 49.1688,
+              "lng": 9.11257
+            },
+            {
+              "lat": 49.16895,
+              "lng": 9.11216
+            },
+            {
+              "lat": 49.16899,
+              "lng": 9.11179
+            },
+            {
+              "lat": 49.16897,
+              "lng": 9.1104
+            },
+            {
+              "lat": 49.16891,
+              "lng": 9.10942
+            },
+            {
+              "lat": 49.16892,
+              "lng": 9.10865
+            },
+            {
+              "lat": 49.16918,
+              "lng": 9.10753
+            },
+            {
+              "lat": 49.16925,
+              "lng": 9.10713
+            },
+            {
+              "lat": 49.16934,
+              "lng": 9.10602
+            },
+            {
+              "lat": 49.16926,
+              "lng": 9.10413
+            },
+            {
+              "lat": 49.16925,
+              "lng": 9.10315
+            },
+            {
+              "lat": 49.16935,
+              "lng": 9.10169
+            },
+            {
+              "lat": 49.16934,
+              "lng": 9.09923
+            },
+            {
+              "lat": 49.16958,
+              "lng": 9.09922
+            },
+            {
+              "lat": 49.1699,
+              "lng": 9.09916
+            },
+            {
+              "lat": 49.17048,
+              "lng": 9.09912
+            },
+            {
+              "lat": 49.1712,
+              "lng": 9.09917
+            },
+            {
+              "lat": 49.17108,
+              "lng": 9.09797
+            },
+            {
+              "lat": 49.17066,
+              "lng": 9.09636
+            },
+            {
+              "lat": 49.17056,
+              "lng": 9.09581
+            },
+            {
+              "lat": 49.17053,
+              "lng": 9.09533
+            },
+            {
+              "lat": 49.17056,
+              "lng": 9.09486
+            },
+            {
+              "lat": 49.1705,
+              "lng": 9.09444
+            },
+            {
+              "lat": 49.1705,
+              "lng": 9.09409
+            },
+            {
+              "lat": 49.17057,
+              "lng": 9.09376
+            },
+            {
+              "lat": 49.17052,
+              "lng": 9.09312
+            },
+            {
+              "lat": 49.17018,
+              "lng": 9.09121
+            },
+            {
+              "lat": 49.17076,
+              "lng": 9.09103
+            },
+            {
+              "lat": 49.17157,
+              "lng": 9.09072
+            },
+            {
+              "lat": 49.17151,
+              "lng": 9.09021
+            },
+            {
+              "lat": 49.1718,
+              "lng": 9.0901
+            },
+            {
+              "lat": 49.1723,
+              "lng": 9.08999
+            },
+            {
+              "lat": 49.17318,
+              "lng": 9.08994
+            },
+            {
+              "lat": 49.17294,
+              "lng": 9.08891
+            },
+            {
+              "lat": 49.1736,
+              "lng": 9.08739
+            },
+            {
+              "lat": 49.17448,
+              "lng": 9.08686
+            },
+            {
+              "lat": 49.17519,
+              "lng": 9.08635
+            },
+            {
+              "lat": 49.17637,
+              "lng": 9.08542
+            },
+            {
+              "lat": 49.17686,
+              "lng": 9.08518
+            },
+            {
+              "lat": 49.17884,
+              "lng": 9.08262
+            },
+            {
+              "lat": 49.17917,
+              "lng": 9.08209
+            },
+            {
+              "lat": 49.17914,
+              "lng": 9.08116
+            },
+            {
+              "lat": 49.17898,
+              "lng": 9.07958
+            },
+            {
+              "lat": 49.17951,
+              "lng": 9.0794
+            },
+            {
+              "lat": 49.17992,
+              "lng": 9.07931
+            },
+            {
+              "lat": 49.18039,
+              "lng": 9.07931
+            },
+            {
+              "lat": 49.18093,
+              "lng": 9.0794
+            },
+            {
+              "lat": 49.18123,
+              "lng": 9.0794
+            },
+            {
+              "lat": 49.18156,
+              "lng": 9.08047
+            },
+            {
+              "lat": 49.18389,
+              "lng": 9.07976
+            },
+            {
+              "lat": 49.18351,
+              "lng": 9.07573
+            },
+            {
+              "lat": 49.18576,
+              "lng": 9.07439
+            },
+            {
+              "lat": 49.1853,
+              "lng": 9.07225
+            },
+            {
+              "lat": 49.18533,
+              "lng": 9.07187
+            },
+            {
+              "lat": 49.18547,
+              "lng": 9.07126
+            },
+            {
+              "lat": 49.18623,
+              "lng": 9.06969
+            },
+            {
+              "lat": 49.1872,
+              "lng": 9.06881
+            },
+            {
+              "lat": 49.18762,
+              "lng": 9.06828
+            },
+            {
+              "lat": 49.18789,
+              "lng": 9.06782
+            },
+            {
+              "lat": 49.18809,
+              "lng": 9.06724
+            },
+            {
+              "lat": 49.18838,
+              "lng": 9.06665
+            },
+            {
+              "lat": 49.18861,
+              "lng": 9.0661
+            },
+            {
+              "lat": 49.18884,
+              "lng": 9.06506
+            },
+            {
+              "lat": 49.18916,
+              "lng": 9.06404
+            },
+            {
+              "lat": 49.189,
+              "lng": 9.06369
+            },
+            {
+              "lat": 49.18911,
+              "lng": 9.06316
+            },
+            {
+              "lat": 49.18939,
+              "lng": 9.06237
+            },
+            {
+              "lat": 49.18976,
+              "lng": 9.06162
+            },
+            {
+              "lat": 49.19024,
+              "lng": 9.06096
+            },
+            {
+              "lat": 49.19085,
+              "lng": 9.06021
+            },
+            {
+              "lat": 49.19105,
+              "lng": 9.0599
+            },
+            {
+              "lat": 49.19121,
+              "lng": 9.05952
+            },
+            {
+              "lat": 49.1919,
+              "lng": 9.05833
+            },
+            {
+              "lat": 49.19232,
+              "lng": 9.05699
+            },
+            {
+              "lat": 49.19306,
+              "lng": 9.05564
+            },
+            {
+              "lat": 49.19421,
+              "lng": 9.05595
+            },
+            {
+              "lat": 49.1949,
+              "lng": 9.05601
+            },
+            {
+              "lat": 49.19487,
+              "lng": 9.05441
+            },
+            {
+              "lat": 49.19508,
+              "lng": 9.05211
+            },
+            {
+              "lat": 49.19514,
+              "lng": 9.05119
+            },
+            {
+              "lat": 49.19533,
+              "lng": 9.04916
+            },
+            {
+              "lat": 49.1955,
+              "lng": 9.04872
+            },
+            {
+              "lat": 49.19566,
+              "lng": 9.04819
+            },
+            {
+              "lat": 49.19572,
+              "lng": 9.04771
+            },
+            {
+              "lat": 49.19576,
+              "lng": 9.04711
+            },
+            {
+              "lat": 49.19579,
+              "lng": 9.0461
+            },
+            {
+              "lat": 49.19652,
+              "lng": 9.04559
+            },
+            {
+              "lat": 49.19677,
+              "lng": 9.04524
+            },
+            {
+              "lat": 49.19693,
+              "lng": 9.04477
+            },
+            {
+              "lat": 49.19697,
+              "lng": 9.04446
+            },
+            {
+              "lat": 49.19721,
+              "lng": 9.04449
+            },
+            {
+              "lat": 49.19729,
+              "lng": 9.04583
+            },
+            {
+              "lat": 49.19727,
+              "lng": 9.04682
+            },
+            {
+              "lat": 49.19722,
+              "lng": 9.04759
+            },
+            {
+              "lat": 49.19723,
+              "lng": 9.04805
+            },
+            {
+              "lat": 49.19736,
+              "lng": 9.04924
+            },
+            {
+              "lat": 49.19741,
+              "lng": 9.05008
+            },
+            {
+              "lat": 49.19741,
+              "lng": 9.05072
+            },
+            {
+              "lat": 49.19715,
+              "lng": 9.05308
+            },
+            {
+              "lat": 49.19713,
+              "lng": 9.05356
+            },
+            {
+              "lat": 49.19719,
+              "lng": 9.0542
+            },
+            {
+              "lat": 49.19721,
+              "lng": 9.05486
+            },
+            {
+              "lat": 49.19719,
+              "lng": 9.0553
+            },
+            {
+              "lat": 49.19705,
+              "lng": 9.05649
+            },
+            {
+              "lat": 49.19709,
+              "lng": 9.05669
+            },
+            {
+              "lat": 49.1976,
+              "lng": 9.05724
+            },
+            {
+              "lat": 49.19764,
+              "lng": 9.05775
+            },
+            {
+              "lat": 49.19769,
+              "lng": 9.05801
+            },
+            {
+              "lat": 49.19834,
+              "lng": 9.05911
+            },
+            {
+              "lat": 49.1985,
+              "lng": 9.05957
+            },
+            {
+              "lat": 49.19869,
+              "lng": 9.06087
+            },
+            {
+              "lat": 49.19879,
+              "lng": 9.06202
+            },
+            {
+              "lat": 49.1988,
+              "lng": 9.06292
+            },
+            {
+              "lat": 49.19862,
+              "lng": 9.06726
+            },
+            {
+              "lat": 49.19827,
+              "lng": 9.06795
+            },
+            {
+              "lat": 49.19801,
+              "lng": 9.06854
+            },
+            {
+              "lat": 49.19776,
+              "lng": 9.06934
+            },
+            {
+              "lat": 49.1976,
+              "lng": 9.07017
+            },
+            {
+              "lat": 49.19753,
+              "lng": 9.07095
+            },
+            {
+              "lat": 49.1976,
+              "lng": 9.07385
+            },
+            {
+              "lat": 49.19776,
+              "lng": 9.07793
+            },
+            {
+              "lat": 49.19778,
+              "lng": 9.0798
+            },
+            {
+              "lat": 49.19775,
+              "lng": 9.08099
+            },
+            {
+              "lat": 49.19767,
+              "lng": 9.08207
+            },
+            {
+              "lat": 49.19751,
+              "lng": 9.08335
+            },
+            {
+              "lat": 49.19866,
+              "lng": 9.08328
+            },
+            {
+              "lat": 49.19855,
+              "lng": 9.08606
+            },
+            {
+              "lat": 49.19719,
+              "lng": 9.08604
+            },
+            {
+              "lat": 49.19711,
+              "lng": 9.08831
+            },
+            {
+              "lat": 49.19701,
+              "lng": 9.08943
+            },
+            {
+              "lat": 49.19692,
+              "lng": 9.08992
+            },
+            {
+              "lat": 49.1975,
+              "lng": 9.08976
+            },
+            {
+              "lat": 49.19751,
+              "lng": 9.09006
+            },
+            {
+              "lat": 49.1973,
+              "lng": 9.09034
+            },
+            {
+              "lat": 49.19748,
+              "lng": 9.09102
+            },
+            {
+              "lat": 49.19714,
+              "lng": 9.09183
+            },
+            {
+              "lat": 49.197,
+              "lng": 9.09243
+            },
+            {
+              "lat": 49.19648,
+              "lng": 9.09523
+            },
+            {
+              "lat": 49.19611,
+              "lng": 9.09799
+            },
+            {
+              "lat": 49.19596,
+              "lng": 9.09984
+            },
+            {
+              "lat": 49.19597,
+              "lng": 9.10063
+            },
+            {
+              "lat": 49.19601,
+              "lng": 9.101
+            },
+            {
+              "lat": 49.1961,
+              "lng": 9.10398
+            },
+            {
+              "lat": 49.19593,
+              "lng": 9.10496
+            },
+            {
+              "lat": 49.1958,
+              "lng": 9.10544
+            },
+            {
+              "lat": 49.19751,
+              "lng": 9.10904
+            },
+            {
+              "lat": 49.19971,
+              "lng": 9.10862
+            },
+            {
+              "lat": 49.2008,
+              "lng": 9.10832
+            },
+            {
+              "lat": 49.2014,
+              "lng": 9.10822
+            },
+            {
+              "lat": 49.20178,
+              "lng": 9.10822
+            },
+            {
+              "lat": 49.20282,
+              "lng": 9.10838
+            },
+            {
+              "lat": 49.2042,
+              "lng": 9.10872
+            },
+            {
+              "lat": 49.20487,
+              "lng": 9.1088
+            },
+            {
+              "lat": 49.20527,
+              "lng": 9.10901
+            },
+            {
+              "lat": 49.20554,
+              "lng": 9.10949
+            },
+            {
+              "lat": 49.206,
+              "lng": 9.11006
+            },
+            {
+              "lat": 49.20681,
+              "lng": 9.11058
+            },
+            {
+              "lat": 49.20736,
+              "lng": 9.11088
+            },
+            {
+              "lat": 49.20795,
+              "lng": 9.11251
+            },
+            {
+              "lat": 49.20844,
+              "lng": 9.11343
+            },
+            {
+              "lat": 49.20922,
+              "lng": 9.11421
+            },
+            {
+              "lat": 49.20917,
+              "lng": 9.11479
+            },
+            {
+              "lat": 49.2096,
+              "lng": 9.11495
+            },
+            {
+              "lat": 49.20972,
+              "lng": 9.11504
+            },
+            {
+              "lat": 49.20949,
+              "lng": 9.11597
+            }
+          ],
+          "holes": []
+        }
+      ],
+      "enableEnterFullAddressAction": true
+    },
+    {
+      "type": "REFERENCE_LIST",
+      "references": [
+        {
+          "label": "Preisentwicklung zu dieser Region ansehen",
+          "url": "https://www.immobilienscout24.de/Suche/controller/executePriceInsightsSimple/region?realestatetype=apartmentbuy&geocodes=/de/baden-wuerttemberg/heilbronn/neckargartach&utm_medium=app&utm_source=iphone&utm_campaign=resultlist_price_insights&utm_content=expose_pricedev",
+          "type": "URL_LINK",
+          "target": "WEB_INTERNAL",
+          "trackingConfig": {
+            "category": "expose",
+            "action": "atlas_tapped",
+            "label": "txt_link_address",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "txt_link_address"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "TRAVELTIME",
+      "isBlocked": true,
+      "exposeId": "162238267",
+      "address": "Adresse vom Anbieter unveröffentlicht"
+    },
+    {
+      "type": "ATTRIBUTE_LIST",
+      "title": "Hauptkriterien",
+      "attributes": [
+        {
+          "type": "TEXT",
+          "label": "Wohnungstyp:",
+          "text": "Dachgeschoss"
+        },
+        {
+          "type": "TEXT",
+          "label": "Wohnraum:",
+          "text": "128 m²"
+        },
+        {
+          "type": "TEXT",
+          "label": "Etage:",
+          "text": "1 von 2"
+        },
+        {
+          "type": "CHECK",
+          "label": "Balkon/Terrasse:"
+        },
+        {
+          "type": "CHECK",
+          "label": "Garten/-mitbenutzung:"
+        },
+        {
+          "type": "TEXT",
+          "label": "Schlafzimmer:",
+          "text": "2"
+        },
+        {
+          "type": "TEXT",
+          "label": "Badezimmer:",
+          "text": "1"
+        },
+        {
+          "type": "CHECK",
+          "label": "Gäste-WC:"
+        },
+        {
+          "type": "CHECK",
+          "label": "Einbauküche:"
+        },
+        {
+          "type": "CHECK",
+          "label": "Keller:"
+        },
+        {
+          "type": "TEXT",
+          "label": "Bezugsfrei ab:",
+          "text": "nach Absprache"
+        },
+        {
+          "type": "LINK",
+          "label": "Internet:",
+          "reference": {
+            "type": "URL_LINK",
+            "iconUrl": "https://www.immobilienscout24.de/content/dam/is24/expose-snippets/services/powered-by-telekom-new.png",
+            "label": "Tarife ansehen",
+            "secondaryLabel": "bis zu 100 MBit/s",
+            "additionalInfoText": "Die Geschwindigkeitsangabe ist eine unverbindliche Angabe auf Basis der Standortadresse. Verbindliche Verfügbarkeitsprüfungen werden erst bei einer Bestellung durchgeführt.",
+            "url": "https://rebrand.ly/speedcheckandroidapp",
+            "target": "WEB_INTERNAL",
+            "trackingConfig": {
+              "category": "clickout",
+              "action": "relocation",
+              "label": "internet_checkspeed_criteria",
+              "event_name": "expose_clickout",
+              "event_product": "search",
+              "parameters": {
+                "event_parameter_1": "internet_checkspeed_criteria"
+              }
+            },
+            "additionalInfoForIcon": {
+              "title": "Warum diese Werbung?",
+              "text": "Für die Bereitstellung von Informationen zur Internet-Verfügbarkeit am Standort des Inserats arbeiten wir mit der Telekom Deutschland GmbH zusammen.",
+              "buttonText": "Weitere Informationen",
+              "buttonUrl": "https://www.immobilienscout24.de/anbieten/dsa-info/telekom.html"
+            },
+            "onClickTrackingTag": "INTERNET_SPEED_CHECK"
+          }
+        }
+      ]
+    },
+    {
+      "type": "ATTRIBUTE_LIST",
+      "title": "Kosten",
+      "attributes": [
+        {
+          "type": "TEXT",
+          "label": "Kaufpreis:",
+          "text": "439.000 €"
+        },
+        {
+          "type": "TEXT",
+          "label": "Preis/m²:",
+          "text": "3.430 €/m²",
+          "additionalInfoText": "Kalkuliert von ImmoScout24"
+        },
+        {
+          "type": "TEXT",
+          "label": "Provision für Käufer:",
+          "text": "3,57 % inkl. MwSt."
+        },
+        {
+          "type": "LINK",
+          "label": "Diese Wohnung finanzieren:",
+          "reference": {
+            "type": "URL_LINK",
+            "target": "INTERNAL",
+            "label": "Jetzt loslegen",
+            "url": "is24://retargetFinancing?pag_source=expose_criteria&exposeId=162238267&companyWideCustomerId=002.01007951263&fullGeoCodeId=1276001016013&postcode=74078&city=Heilbronn&quarter=Neckargartach&price=439000&funds=87800",
+            "trackingConfig": {
+              "category": "expose",
+              "action": "expose",
+              "label": "finance_widget",
+              "event_name": "productintegration_click",
+              "event_product": "search",
+              "parameters": {
+                "event_parameter_1": "finance_widget"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "FINANCE_COSTS",
+      "title": "Kaufkosten",
+      "purchasePrice": {
+        "label": "Kaufpreis",
+        "text": "439.000 €",
+        "value": 439000
+      },
+      "additionalCosts": {
+        "label": "Kaufnebenkosten",
+        "text": "46.402 €",
+        "value": 46402
+      },
+      "totalCosts": {
+        "label": "Gesamtkosten",
+        "text": "485.402 €",
+        "value": 485402
+      },
+      "brokerCommission": {
+        "label": "Maklerprovision",
+        "percentage": "3,57 %",
+        "amount": "15.672 €",
+        "value": 15672
+      },
+      "landTransferTax": {
+        "label": "Grunderwerbsteuer",
+        "percentage": "5 %",
+        "amount": "21.950 €",
+        "value": 21950
+      },
+      "notaryCosts": {
+        "label": "Notarkosten",
+        "percentage": "1,5 %",
+        "amount": "6.585 €",
+        "value": 6585
+      },
+      "landRegistryEntry": {
+        "label": "Grundbucheintrag",
+        "percentage": "0,5 %",
+        "amount": "2.195 €",
+        "value": 2195
+      },
+      "monthlyRate": "Finanziere ab 1.411 € / Monat",
+      "reference": {
+        "type": "URL_LINK",
+        "target": "INTERNAL",
+        "label": "",
+        "trackingConfig": {
+          "category": "expose",
+          "action": "consumerservices",
+          "label": "finance_criteria",
+          "event_name": "productintegration_click",
+          "event_product": "search",
+          "parameters": {
+            "event_parameter_1": "finance_criteria"
+          }
+        },
+        "url": "is24://retargetFinancing?pag_source=expose_widget&exposeId=162238267&companyWideCustomerId=002.01007951263&fullGeoCodeId=1276001016013&postcode=74078&city=Heilbronn&quarter=Neckargartach&price=439000&funds=87800"
+      },
+      "footer": "Basierend auf gebundener Sollzins 3,31 % (durchschnittliche Marktdaten), Eigenkapital 87.800 €, 1 % anfängliche Tilgung, 10 Jahre Sollzinsbindung"
+    },
+    {
+      "type": "PREMIUM_ADDITIONAL_INFO",
+      "title": "Plus Mitglieder wissen mehr!",
+      "isExposeBuy": true,
+      "chancenCheck": {
+        "enabled": false,
+        "title": "Plus Insights",
+        "publishedLabel": "Veröffentlicht",
+        "visitedLabel": "Aufrufe",
+        "shortlistedLabel": "Gemerkt",
+        "contactedLabel": "Kontaktiert"
+      },
+      "competitionAnalysis": {
+        "enabled": false,
+        "title": "Konkurrenzanalyse",
+        "plusUser": {
+          "label": "Plus-Mitglieder",
+          "count": null
+        },
+        "basicUser": {
+          "label": "Basic-Mitglieder",
+          "count": null
+        },
+        "totalUserCount": null,
+        "description": "inkl. 6 weiterer Diagramme mit Plus+",
+        "activationLabel": "mit Plus oder einzeln",
+        "quickCartUrl": "https://www.immobilienscout24.de/warenkorb/kaeuferplus?isMobileView=true&utm_campaign=chancen_check&utm_content=residential_expose_competitionanalysis_cta",
+        "trackingConfig": {
+          "event_name": "subscription_clickout",
+          "event_product": "expose",
+          "parameters": {
+            "event_parameter_1": "buy",
+            "event_parameter_2": "competition_analysis"
+          }
+        }
+      },
+      "quickCartButton": {
+        "enabled": true,
+        "label": "Jetzt Plus aktivieren",
+        "url": "https://www.immobilienscout24.de/warenkorb/kaeuferplus?isMobileView=true&utm_campaign=chancen_check&utm_content=residential_expose_plusinsights_cta",
+        "trackingConfig": {
+          "event_name": "subscription_clickout",
+          "event_product": "expose",
+          "parameters": {
+            "event_parameter_1": "buy",
+            "event_parameter_2": "plus_insights"
+          }
+        }
+      },
+      "visits": null,
+      "contactRequests": null,
+      "shortlistAddEvents": null,
+      "prospectiveCustomersCount": {
+        "basic": null,
+        "premium": null,
+        "total": null
+      },
+      "newExposeHoursThreshold": null,
+      "calculated": null,
+      "privateOffer": null,
+      "onlineSince": null
+    },
+    {
+      "type": "ATTRIBUTE_LIST",
+      "title": "Bausubstanz & Energieausweis",
+      "attributes": [
+        {
+          "type": "TEXT",
+          "label": "Baujahr:",
+          "text": "1993"
+        },
+        {
+          "type": "TEXT",
+          "label": "Letzte Modernisierung/ Sanierung:",
+          "text": "2019"
+        },
+        {
+          "type": "TEXT",
+          "label": "Objektzustand:",
+          "text": "Gepflegt"
+        },
+        {
+          "type": "TEXT",
+          "label": "Heizungsart:",
+          "text": "Etagenheizung"
+        },
+        {
+          "type": "TEXT",
+          "label": "Energieausweistyp:",
+          "text": "Verbrauchsausweis"
+        },
+        {
+          "type": "TEXT",
+          "label": "Energieausweis:",
+          "text": "liegt vor"
+        },
+        {
+          "type": "TEXT",
+          "label": "Wesentliche Energieträger:",
+          "text": "Gas"
+        },
+        {
+          "type": "TEXT",
+          "label": "Endenergieverbrauch:",
+          "text": "117.3 kWh/(m²∙a)"
+        },
+        {
+          "type": "IMAGE",
+          "label": "Energieeffizienzklasse:",
+          "url": "https://is24-search-static.s3-eu-west-1.amazonaws.com/mobile-feed/energy-efficiency-labels/D.png"
+        },
+        {
+          "type": "TEXT",
+          "label": "Baujahr laut Energieausweis:",
+          "text": "1993",
+          "additionalInfoText": "Das Feld \"Baujahr laut Energieausweis\" entspricht den Werten im Energieausweis (z.B. Jahr des Bauantrags für das Gebäude/eines Gebäudeteils/relevante Modernisierungen). Das Feld \"Baujahr\" beschreibt das Jahr, in dem die Immobilie erstmals bezugsfertig war."
+        }
+      ]
+    },
+    {
+      "type": "AD",
+      "ad": {
+        "id": "/4467/IS24_APP_DE/app_iOS_iPhone_expose_contentbanner_1"
+      }
+    },
+    {
+      "type": "TEXT_AREA",
+      "title": "Objektbeschreibung",
+      "collapseAfterLines": 5,
+      "text": "Diese traumhafte 3-Zimmer-Wohnung begeistert durch ihre besondere Atmosphäre und das großzügige Raumgefühl. Durch die Dachgauben wirken alle Räume hell, offen und lichtdurchflutet.\n\nDie Wohnung befindet sich im 1. Obergeschoss eines gepflegten Dreifamilienhauses. Bereits beim Bau des Hauses wurde auf hochwertige Materialien und eine durchdachte Architektur großen Wert gelegt – und das spürt man in jedem Detail.\n\nSchon beim Betreten empfängt Sie ein lichtdurchfluteter Eingangsbereich mit Platz für Ihre Garderobe sowie Zugang zur Küche und einem Gäste-WC.\n\nVom Flur aus gelangen Sie in die beiden Schlafräume – ideal als Schlafzimmer und Kinder- oder Arbeitszimmer – sowie in das Tageslichtbad, das mit Badewanne, Dusche, Waschbecken, WC und Handtuchheizkörper ausgestattet ist.\n\nHinter einer stilvollen Glastür öffnet sich das Herzstück der Wohnung: der großzügige Wohn- und Essbereich mit gemütlichem Kachelkaminofen und Zugang zum großen Balkon, der zum Entspannen und Genießen einlädt. Eine Klimaanlage sorgt hier an heißen Tagen für angenehme Kühle und kann bei Bedarf auch zum Heizen genutzt werden.\n\nEin zweiter, romantischer Balkon befindet sich am Schlaf- bzw. Kinderzimmer und bietet einen zus
+ätzlichen Rückzugsort im Freien.\n\nDie hochwertige Einbauküche mit sämtlichen Elektrogeräten steht zur Verfügung und bietet zusätzlich Platz für einen Frühstückstisch – ideal für den Start in den Tag.\n\nIm Abstellraum befinden sich die Gasetagenheizung sowie praktische Lagermöglichkeiten für Vorräte und H
+aushaltsutensilien. Über eine Zugtreppe im Eingangsbereich gelangen Sie in den Speicher, der aktuell als Stauraum genutzt wird, sich aber auch für einen späteren Ausbau eignet.\n\nWeitere Abstellmöglichkeiten finden Sie im Gemeinschaftskeller. Zur Wohnung gehören ein Außenstellplatz sowie ein Garagenstellplatz in der Gemeinschaftsgarage. Von dort aus haben Sie direkten Zugang zum gepflegten Gemeinschaftsgarten, der zum Verweilen und Entspannen einlädt.\n\nVereinbaren Sie noch heute einen Besichtigungstermin – wir freuen uns auf Sie!"
+    },
+    {
+      "type": "TEXT_AREA",
+      "title": "Ausstattung",
+      "collapseAfterLines": 5,
+      "text": "Zwei Balkone \nEinbauküche inkl. Elektrogeräte\nGäste-WC mit Waschmaschinenanschluss\nAbstellraum \nSpeicher mit Ausbaupotenzial\nGemeinschaftskeller\nGaragenstellplatz und Außenstellplatz \nGemeinschaftsgarten\nKlimaanlage\nKaminofen"
+    },
+    {
+      "type": "TEXT_AREA",
+      "title": "Lage",
+      "collapseAfterLines": 5,
+      "text": "Die Wohnung befindet sich in ruhiger und beliebter Wohnlage von Heilbronn-Frankenbach. Frankenbach überzeugt durch seine gewachsene Infrastruktur, gute Anbindung und hohe Lebensqualität. Einkaufsmöglichkeiten, Bäcker, Apotheken, Ärzte, Schulen und Kindergärten sind bequem erreichbar."
+    },
+    {
+      "type": "TEXT_AREA",
+      "title": "Sonstiges",
+      "collapseAfterLines": 5,
+      "text": "Gerne können Sie ein ausführliches Exposé mit weiteren Informationen anfordern oder auf unserer Website im VIP-Bereich downloaden.\n\nSie möchten Ihre Immobilie verkaufen?\nMit uns glücklicher Verkäufer werden und einen unverbindlichen Beratungstermin vereinbaren.\n\nTelefonische Erreichbarkeit\nMo. - Fr. : 9:00 - 12:00 und 14:00 - 17:00 Uhr\n(Nicht an Feiertagen)"
+    },
+    {
+      "type": "HOMEOWNER",
+      "title": "Verkaufen mit Schürrer & Fleischer Immobilien GmbH & Co. KG",
+      "text": "Holen Sie sich eine kostenlose und unverbindliche Beratung für Ihren Verkauf ein. Wir freuen uns auf Sie!",
+      "featuredBarColor": "#00FFD0",
+      "logoUrl": "https://pictures.immobilienscout24.de/usercontent/ddd0631e-5c02-47bd-838c-eb0a411fff1e.PNG/ORIG/resize/%WIDTH%x%HEIGHT%%3E/format/webp/quality/80",
+      "reference": {
+        "label": "Kostenlose Beratung",
+        "url": "https://www.immobilienscout24.de/anbieter/contact/schuerrer-und-fleischer-immobilien-gmbh-und-co-kg/aa3d13d7003f7325427f5e7",
+        "type": "BUTTON",
+        "target": "WEB_INTERNAL"
+      },
+      "trackingConfig": {
+        "title": "expose",
+        "category": "expose",
+        "action": "consumerservices",
+        "label": "chancencheck"
+      }
+    },
+    {
+      "type": "REFERENCE_LIST",
+      "title": "Services passend zur Wohnung",
+      "references": [
+        {
+          "type": "BUTTON",
+          "label": "Wert ermitteln",
+          "url": "is24://retargetPropertyValuation?source=expose_services",
+          "target": "INTERNAL",
+          "trackingConfig": {
+            "category": "expose",
+            "action": "consumerservices",
+            "label": "valuation_services",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "valuation_services"
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "label": "Umzugsfirma finden",
+          "url": "is24://retargetRelocation?pag_source=expose_services&floor=1&street=&houseNumber=&postcode=74078&city=Heilbronn",
+          "target": "INTERNAL",
+          "trackingConfig": {
+            "category": "expose",
+            "action": "consumerservices",
+            "label": "relocation_services",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "relocation_services"
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "label": "Finanzierung",
+          "url": "is24://retargetFinancing?pag_source=expose_services&exposeId=162238267&companyWideCustomerId=002.01007951263&fullGeoCodeId=1276001016013&postcode=74078&city=Heilbronn&quarter=Neckargartach&price=439000&funds=87800",
+          "target": "INTERNAL",
+          "trackingConfig": {
+            "category": "expose",
+            "action": "consumerservices",
+            "label": "finance_services",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "finance_services"
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "label": "Mein Eigentümerbereich",
+          "url": "https://atlas.immobilienscout24.de/eigentuemerbereich?utm_medium=app&utm_source=ios&utm_campaign=residential_atlas_myproperty&utm_content=residential_expose_service&street=&houseNumber=&zipcode=74078&city=Heilbronn",
+          "target": "WEB_INTERNAL",
+          "trackingConfig": {
+            "category": "expose",
+            "action": "further_links",
+            "label": "myproperty_services",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "myproperty_services"
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "label": "Stromverbrauch berechnen",
+          "url": "https://www.immobilienscout24.de/umzug/service/electricity-calculator-mobile.html?zipCode=74078&squareMeters=128&lang=de",
+          "target": "WEB_INTERNAL",
+          "trackingConfig": {
+            "category": "clickout",
+            "action": "electricity",
+            "label": "energy_services",
+            "event_name": "productintegration_click",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "energy_services"
+            }
+          }
+        },
+        {
+          "type": "BUTTON",
+          "label": "Internet umziehen",
+          "url": "https://rebrand.ly/service-android-app",
+          "target": "WEB_INTERNAL",
+          "trackingConfig": {
+            "category": "clickout",
+            "action": "internet",
+            "label": "internet_services",
+            "event_name": "expose_clickout",
+            "event_product": "search",
+            "parameters": {
+              "event_parameter_1": "internet_services"
+            }
+          },
+          "additionalInfoForIcon": {
+            "title": "Warum diese Werbung?",
+            "text": "Für die Bereitstellung von Informationen zur Internet-Verfügbarkeit am Standort des Inserats arbeiten wir mit der Telekom Deutschland GmbH zusammen.",
+            "buttonText": "Weitere Informationen",
+            "buttonUrl": "https://www.immobilienscout24.de/anbieten/dsa-info/telekom.html",
+            "iconUrl": "https://www.immobilienscout24.de/content/dam/is24/expose-snippets/services/powered-by-telekom-new.png"
+          }
+        }
+      ]
+    },
+    {
+      "type": "PRICE_INFO",
+      "title": "Preis- und Lageinformationen",
+      "attributes": [
+        {
+          "type": "TEXT",
+          "label": "Objektzustand:",
+          "text": "Gepflegt"
+        }
+      ],
+      "priceBar": {
+        "minPrice": "2.100 € /m²",
+        "maxPrice": "5.000 € /m²",
+        "minSimilarPrice": "2.600 € /m²",
+        "maxSimilarPrice": "4.050 € /m²",
+        "actualObject": "Dieses Angebot 3.430 € /m²",
+        "priceIndicatorPositionInPercent": 0.46
+      },
+      "calculationInformation": {
+        "title": "Mehr Informationen zu dieser Adresse",
+        "offersLowerSimilarPrice": "15,9% niedrigeren Angebotspreises",
+        "offersWithSimilarPrice": "68.2% ähnlichen Angebotspreises",
+        "offersHigherSimilarPrice": "15,9% höheren Angebotspreises",
+        "furtherInformation": {
+          "target": "WEB",
+          "type": "URL_LINK",
+          "label": "Quelle und weitere Informationen",
+          "url": "https://www.immobilienscout24.de/immobilienbewertung/fragen-und-antworten/preis-lageinformationen-wohnung-miete.html"
+        }
+      }
+    },
+    {
+      "type": "AGENTS_INFO",
+      "title": "Anbieter Informationen",
+      "company": "Schürrer & Fleischer Immobilien GmbH & Co. KG",
+      "name": "Filiale Heilbronn Wohnen",
+      "logoUrl": "https://pictures.immobilienscout24.de/usercontent/ddd0631e-5c02-47bd-838c-eb0a411fff1e.PNG/ORIG/resize/%WIDTH%x%HEIGHT%%3E/format/webp/quality/80",
+      "rating": {
+        "value": 4.5,
+        "numberOfStars": 5,
+        "reference": {
+          "type": "URL_LINK",
+          "label": "(4.5 Sterne)",
+          "url": "https://www.immobilienscout24.de/anbieter/schuerrer-und-fleischer-immobilien-gmbh-und-co-kg/aa3d13d7003f7325427f5e7",
+          "target": "WEB_INTERNAL"
+        }
+      },
+      "verifiedBy": [
+        {
+          "id": "TNS_REALTOR_BADGE",
+          "label": "Identität verifiziert",
+          "tooltip": "Deine Sicherheit liegt uns am Herzen. Diese:r Anbietende wurde daher erfolgreich verifiziert und ist zusätzlich durch eine Mehrfaktor-Authentifizierung geschützt.",
+          "reference": {
+            "label": "Mehr Infos",
+            "url": "https://sicherheit.immobilienscout24.de/verifizierte-anbietende.html",
+            "type": "URL_LINK",
+            "target": "WEB_INTERNAL"
+          }
+        }
+      ],
+      "dsaSelfDeclaration": {
+        "text": "Der:Die Anbietende hat sich gegenüber ImmoScout24 verpflichtet, nur Produkte und Dienstleistungen anzubieten, die den geltenden Vorschriften des Unionsrechts entsprechen."
+      },
+      "address": "Oststr. 18/1\n74072 Heilbronn",
+      "references": [
+        {
+          "label": "Widerrufsbelehrung",
+          "url": "https://www.immobilienscout24.de/widerrufsbelehrung/anbieter/002.01007951263",
+          "type": "URL_LINK",
+          "target": "WEB_INTERNAL"
+        },
+        {
+          "label": "Impressum des Anbieters",
+          "url": "is24://imprint?text=Sch%C3%BCrrer%20%26%20Fleischer%20Immobilien%20GmbH%20%26%20Co.%20KG%0AOststr.%2018%2F1%0A74072%20Heilbronn%0A07131%20209020%0A07131%202090290%0Ainfo%40schuerrer-fleischer.de%0A%0AHauptsitz%3A%0D%0ASch%C3%B6nbornstra%C3%9Fe%2019%0D%0A76646%20Bruchsal%0D%0ATel%3A%2007251
+%20306060-0%0D%0AFax%3A%2007251%20306060-90%0D%0AEmail%3A%20info%40schuerrer-fleischer.de%0D%0A%0D%0AAmtsgericht%20Mannheim%20HRA%20700733%0D%0AUSt-IdNr.%3A%20DE252462421%0D%0A%0D%0APers%C3%B6nlich%20haftende%20Gesellschafterin%0D%0ASch%C3%BCrrer%20%26%20Fleischer%20Verwaltungs%20GmbH%0D%0ASch%C3%B6nbornstr
+a%C3%9Fe%2019%0D%0A76646%20Bruchsal%0D%0AAmtsgericht%20Mannheim%20HRB%20701603%0D%0A%0D%0AGesch%C3%A4ftsf%C3%BChrer%0D%0APeter%20Sch%C3%BCrrer%20und%20Bernd%20Fleischer%0D%0A%0D%0AAufsichtsbeh%C3%B6rde%20nach%20%C2%A7%2034c%20GewO%0D%0AIndustrie-%20und%20Handelskammer%20Karlsruhe%0D%0ALammstra%C3%9Fe%2013-1
+7%0D%0A76133%20Karlsruhe%0D%0Awww.karlsruhe.ihk.de%0D%0A%0D%0AE-Mail%3A%20info%40karlsruhe-ihk.de%0D%0ATelefon%3A%200721%20174-0%0D%0ATelefax%3A%200721%20174-290%0D%0A%0D%0AVerbraucherinformation%20nach%20%C2%A7%2036%20VSBG%0D%0A%0D%0ADer%20Immobilienverband%20Deutschland%20IVD%20e.V.%20hat%20eine%20Schlich
+tungsstelle%20nach%20Ma%C3%9Fgabe%20des%20Verbraucherstreitbeilegungsgesetzes%20(VSBG)%20eingerichtet.%20Vor%20der%20Schlichtungsstelle%20k%C3%B6nnen%20u.a.%20Streitigkeiten%20zwischen%20Verbrauchern%20und%20Mitgliedern%20des%20IVD%20in%20einem%20au%C3%9Fergerichtlichen%20Schlichtungsverfahren%20beigelegt%2
+0werden.%20Die%20Firma%20Sch%C3%BCrrer%20%26%20Fleischer%20Immobilien%20GmbH%20%26%20Co.%20KG%20ist%20Mitglied%20im%20IVD%20und%20nimmt%20an%20einem%20Schlichtungsverfahren%20teil.%0D%0A%0D%0ADie%20Anschrift%20der%20Schlichtungsstelle%20lautet%3A%20Ombudsmann%20Immobilien%20IVD%2FVPB%20%E2%80%93%20Grunderwe
+rb%20und-%20verwaltung%2C%20Littenstr.%2010%2C%2010179%20Berlin.%20Weitere%20Kommunikationsdaten%20sind%20info%40ombudsmann-immobilien.net%2C%20www.ombudsmann-immobilien.net.%0D%0A%0D%0AAn%20Schlichtungsverfahren%20bei%20anderen%20Schlichtungsstellen%20nimmt%20die%20Firma%20Sch%C3%BCrrer%20%26%20Fleischer%2
+0Immobilien%20GmbH%20%26%20Co.%20KG%20grunds%C3%A4tzlich%20nicht%20teil.%0D%0A%0D%0AOnline-Streitbeilegung%20gem.%20Art.%2014%20Abs.%201%20ODR-VO%3A%20Die%20Europ%C3%A4ische%20Kommission%20stellt%20eine%20Plattform%20zur%20Online-Streitbeilegung%20(OS)%20bereit%2C%20die%20Sie%20hier%20finden%3A%0D%0Ahttps%3A%2F%2Fec.europa.eu%2Fconsumers%2Fodr%0A",
+          "type": "URL_LINK",
+          "target": "INTERNAL"
+        },
+        {
+          "label": "Homepage des Anbieters",
+          "url": "http://www.schuerrer-fleischer.de",
+          "type": "URL_LINK",
+          "target": "WEB"
+        }
+      ]
+    },
+    {
+      "type": "CONTACT",
+      "callButtonLabel": "Anruf",
+      "mailButtonLabel": "Nachricht",
+      "messengerButtonLabel": "Nachrichten",
+      "premiumProfileRequiredForContacting": "false",
+      "phoneNumbers": [
+        {
+          "type": "TEXT",
+          "label": "Festnetznummer",
+          "text": "+49 7131 209020"
+        }
+      ],
+      "contactData": {
+        "agent": {
+          "name": "Filiale Heilbronn Wohnen",
+          "company": "Schürrer & Fleischer Immobilien GmbH & Co. KG",
+          "rating": {
+            "numberOfStars": 5,
+            "value": 4.5,
+            "label": "(4.5 Sterne)"
+          },
+          "logo": "https://pictures.immobilienscout24.de/usercontent/ddd0631e-5c02-47bd-838c-eb0a411fff1e.PNG/ORIG/resize/%WIDTH%x%HEIGHT%%3E/format/webp/quality/80",
+          "verifiedBy": [
+            {
+              "id": "TNS_REALTOR_BADGE",
+              "label": "Identität verifiziert",
+              "tooltip": "Deine Sicherheit liegt uns am Herzen. Diese:r Anbietende wurde daher erfolgreich verifiziert und ist zusätzlich durch eine Mehrfaktor-Authentifizierung geschützt.",
+              "reference": {
+                "label": "Mehr Infos",
+                "url": "https://sicherheit.immobilienscout24.de/verifizierte-anbietende.html",
+                "type": "URL_LINK",
+                "target": "WEB_INTERNAL"
+              }
+            }
+          ]
+        },
+        "realEstateType": "apartmentbuy",
+        "formFieldConfig": {
+          "moveInDateField": "OPTIONAL",
+          "counterOffer": "OPTIONAL",
+          "numberOfPersonsField": "OPTIONAL",
+          "employmentRelationshipField": "OPTIONAL",
+          "incomeField": "OPTIONAL",
+          "firstnameField": "OPTIONAL",
+          "lastnameField": "MANDATORY",
+          "phoneNumberField": "OPTIONAL",
+          "emailAddressField": "MANDATORY",
+          "addressField": "MANDATORY",
+          "buyReasonField": "OPTIONAL",
+          "ownCapitalField": "OPTIONAL",
+          "applicationPackageCompletedField": "OPTIONAL",
+          "salutationField": "MANDATORY",
+          "messageField": "OPTIONAL",
+          "homeOwner": "OPTIONAL"
+        },
+        "isExposeBuy": true,
+        "commissionAgreementPdfUrl": "https://pro-exp.alias.s24cloud.net/api/search/v1.0/expose/162238267/commissionSplit/agreement",
+        "contactMortgageSection": {
+          "purchasePrice": 439000,
+          "geoCode": "1276001016013",
+          "financingObject": {
+            "postalCode": "74078",
+            "city": "Heilbronn",
+            "quarter": "Neckargartach",
+            "type": "APARTMENT_BUY"
+          }
+        }
+      }
+    },
+    {
+      "type": "AGENTS_CONTACT",
+      "address": "Oststr. 18/1\n74072 Heilbronn",
+      "references": [
+        {
+          "label": "Widerrufsbelehrung",
+          "url": "https://www.immobilienscout24.de/widerrufsbelehrung/anbieter/002.01007951263",
+          "type": "URL_LINK",
+          "target": "WEB_INTERNAL"
+        },
+        {
+          "label": "Impressum des Anbieters",
+          "url": "is24://imprint?text=Sch%C3%BCrrer%20%26%20Fleischer%20Immobilien%20GmbH%20%26%20Co.%20KG%0AOststr.%2018%2F1%0A74072%20Heilbronn%0A07131%20209020%0A07131%202090290%0Ainfo%40schuerrer-fleischer.de%0A%0AHauptsitz%3A%0D%0ASch%C3%B6nbornstra%C3%9Fe%2019%0D%0A76646%20Bruchsal%0D%0ATel%3A%2007251
+%20306060-0%0D%0AFax%3A%2007251%20306060-90%0D%0AEmail%3A%20info%40schuerrer-fleischer.de%0D%0A%0D%0AAmtsgericht%20Mannheim%20HRA%20700733%0D%0AUSt-IdNr.%3A%20DE252462421%0D%0A%0D%0APers%C3%B6nlich%20haftende%20Gesellschafterin%0D%0ASch%C3%BCrrer%20%26%20Fleischer%20Verwaltungs%20GmbH%0D%0ASch%C3%B6nbornstr
+a%C3%9Fe%2019%0D%0A76646%20Bruchsal%0D%0AAmtsgericht%20Mannheim%20HRB%20701603%0D%0A%0D%0AGesch%C3%A4ftsf%C3%BChrer%0D%0APeter%20Sch%C3%BCrrer%20und%20Bernd%20Fleischer%0D%0A%0D%0AAufsichtsbeh%C3%B6rde%20nach%20%C2%A7%2034c%20GewO%0D%0AIndustrie-%20und%20Handelskammer%20Karlsruhe%0D%0ALammstra%C3%9Fe%2013-1
+7%0D%0A76133%20Karlsruhe%0D%0Awww.karlsruhe.ihk.de%0D%0A%0D%0AE-Mail%3A%20info%40karlsruhe-ihk.de%0D%0ATelefon%3A%200721%20174-0%0D%0ATelefax%3A%200721%20174-290%0D%0A%0D%0AVerbraucherinformation%20nach%20%C2%A7%2036%20VSBG%0D%0A%0D%0ADer%20Immobilienverband%20Deutschland%20IVD%20e.V.%20hat%20eine%20Schlich
+tungsstelle%20nach%20Ma%C3%9Fgabe%20des%20Verbraucherstreitbeilegungsgesetzes%20(VSBG)%20eingerichtet.%20Vor%20der%20Schlichtungsstelle%20k%C3%B6nnen%20u.a.%20Streitigkeiten%20zwischen%20Verbrauchern%20und%20Mitgliedern%20des%20IVD%20in%20einem%20au%C3%9Fergerichtlichen%20Schlichtungsverfahren%20beigelegt%2
+0werden.%20Die%20Firma%20Sch%C3%BCrrer%20%26%20Fleischer%20Immobilien%20GmbH%20%26%20Co.%20KG%20ist%20Mitglied%20im%20IVD%20und%20nimmt%20an%20einem%20Schlichtungsverfahren%20teil.%0D%0A%0D%0ADie%20Anschrift%20der%20Schlichtungsstelle%20lautet%3A%20Ombudsmann%20Immobilien%20IVD%2FVPB%20%E2%80%93%20Grunderwe
+rb%20und-%20verwaltung%2C%20Littenstr.%2010%2C%2010179%20Berlin.%20Weitere%20Kommunikationsdaten%20sind%20info%40ombudsmann-immobilien.net%2C%20www.ombudsmann-immobilien.net.%0D%0A%0D%0AAn%20Schlichtungsverfahren%20bei%20anderen%20Schlichtungsstellen%20nimmt%20die%20Firma%20Sch%C3%BCrrer%20%26%20Fleischer%2
+0Immobilien%20GmbH%20%26%20Co.%20KG%20grunds%C3%A4tzlich%20nicht%20teil.%0D%0A%0D%0AOnline-Streitbeilegung%20gem.%20Art.%2014%20Abs.%201%20ODR-VO%3A%20Die%20Europ%C3%A4ische%20Kommission%20stellt%20eine%20Plattform%20zur%20Online-Streitbeilegung%20(OS)%20bereit%2C%20die%20Sie%20hier%20finden%3A%0D%0Ahttps%3A%2F%2Fec.europa.eu%2Fconsumers%2Fodr%0A",
+          "type": "URL_LINK",
+          "target": "INTERNAL"
+        },
+        {
+          "label": "Homepage des Anbieters",
+          "url": "http://www.schuerrer-fleischer.de",
+          "type": "URL_LINK",
+          "target": "WEB"
+        }
+      ]
+    },
+    {
+      "type": "OBJECT_INFO",
+      "text": "Scout-ID: 162238267 | Objekt-Nr.: 205183"
+    },
+    {
+      "type": "AD",
+      "ad": {
+        "id": "/4467/IS24_APP_DE/app_iOS_iPhone_expose"
+      }
+    },
+    {
+      "type": "FRAUD_REPORT",
+      "text": "Gibt es etwas zu beanstanden?",
+      "reference": {
+        "label": "Angebot melden!",
+        "url": "https://angebot-melden.immobilienscout24.de/report?realEstateId=162238267&publicationState=live",
+        "type": "URL_LINK",
+        "target": "WEB_INTERNAL"
+      }
+    }
+  ],
+  "contact": {
+    "type": "CONTACT",
+    "callButtonLabel": "Anruf",
+    "mailButtonLabel": "Nachricht",
+    "messengerButtonLabel": "Nachrichten",
+    "premiumProfileRequiredForContacting": "false",
+    "phoneNumbers": [
+      {
+        "type": "TEXT",
+        "label": "Festnetznummer",
+        "text": "+49 7131 209020"
+      }
+    ],
+    "contactData": {
+      "agent": {
+        "name": "Filiale Heilbronn Wohnen",
+        "company": "Schürrer & Fleischer Immobilien GmbH & Co. KG",
+        "rating": {
+          "numberOfStars": 5,
+          "value": 4.5,
+          "label": "(4.5 Sterne)"
+        },
+        "logo": "https://pictures.immobilienscout24.de/usercontent/ddd0631e-5c02-47bd-838c-eb0a411fff1e.PNG/ORIG/resize/%WIDTH%x%HEIGHT%%3E/format/webp/quality/80",
+        "verifiedBy": [
+          {
+            "id": "TNS_REALTOR_BADGE",
+            "label": "Identität verifiziert",
+            "tooltip": "Deine Sicherheit liegt uns am Herzen. Diese:r Anbietende wurde daher erfolgreich verifiziert und ist zusätzlich durch eine Mehrfaktor-Authentifizierung geschützt.",
+            "reference": {
+              "label": "Mehr Infos",
+              "url": "https://sicherheit.immobilienscout24.de/verifizierte-anbietende.html",
+              "type": "URL_LINK",
+              "target": "WEB_INTERNAL"
+            }
+          }
+        ]
+      },
+      "realEstateType": "apartmentbuy",
+      "formFieldConfig": {
+        "moveInDateField": "OPTIONAL",
+        "counterOffer": "OPTIONAL",
+        "numberOfPersonsField": "OPTIONAL",
+        "employmentRelationshipField": "OPTIONAL",
+        "incomeField": "OPTIONAL",
+        "firstnameField": "OPTIONAL",
+        "lastnameField": "MANDATORY",
+        "phoneNumberField": "OPTIONAL",
+        "emailAddressField": "MANDATORY",
+        "addressField": "MANDATORY",
+        "buyReasonField": "OPTIONAL",
+        "ownCapitalField": "OPTIONAL",
+        "applicationPackageCompletedField": "OPTIONAL",
+        "salutationField": "MANDATORY",
+        "messageField": "OPTIONAL",
+        "homeOwner": "OPTIONAL"
+      },
+      "isExposeBuy": true,
+      "commissionAgreementPdfUrl": "https://pro-exp.alias.s24cloud.net/api/search/v1.0/expose/162238267/commissionSplit/agreement",
+      "contactMortgageSection": {
+        "purchasePrice": 439000,
+        "geoCode": "1276001016013",
+        "financingObject": {
+          "postalCode": "74078",
+          "city": "Heilbronn",
+          "quarter": "Neckargartach",
+          "type": "APARTMENT_BUY"
+        }
+      }
+    }
+  },
+  "tracking": {
+    "realEstateType": "APARTMENT_BUY",
+    "parameters": {
+      "obj_scoutid": "162238267",
+      "obj_nbp": "false",
+      "obj_ityp": "apartment_buy",
+      "obj_purchasePrice": "439000",
+      "obj_listFirstStatus": "false",
+      "ga_cd_cxp_interactivepic": "false",
+      "geo_land": "deutschland",
+      "geo_bln": "baden_württemberg",
+      "geo_krs": "heilbronn",
+      "obj_ExclusiveExpose": "true",
+      "obj_privateOffer": "false",
+      "ga_cd_via": "premium",
+      "ga_cd_application_requirements": "profile0",
+      "ga_cd_customer_group": "others",
+      "obj_commissionsettings": "flow:0"
+    }
+  },
+  "adTargetingParameters": {
+    "obj_regio1": "Baden_Württemberg",
+    "obj_heatingType": "self_contained_central_heating",
+    "obj_telekomInternetUrlAddition": "eyJvcnQiOiJIZWlsYnJvbm4iLCJvcnRzdGVpbCI6IiIsInN0cmFzc2UiOiJQaGlsaXBwLUhhZ25lci1TdHIuIiwiaGF1c251bW1lciI6IjQiLCJrbHNpZCI6OTk4MTc4MywiaGF1c251bW1lcnp1c2F0eiI6IiIsInBseiI6Ijc0MDc4In0%3D",
+    "obj_cId": "17177542",
+    "obj_newlyConst": "n",
+    "obj_balcony": "y",
+    "obj_picturecount": "14",
+    "obj_usableArea": "19",
+    "obj_yearConstructed": "1993",
+    "obj_privateOffer": "false",
+    "obj_scoutId": "162238267",
+    "obj_firingTypes": "gas",
+    "obj_hasKitchen": "y",
+    "obj_ExclusiveExpose": "true",
+    "obj_courtage": "y",
+    "geo_bln": "baden_württemberg",
+    "obj_cellar": "y",
+    "obj_purchasePriceRange": "8",
+    "obj_yearConstructedRange": "5",
+    "obj_telekomInternetUrlBase": "https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl",
+    "obj_houseNumber": "no_information",
+    "obj_energyType": "energy_consumption",
+    "obj_livingSpace": "128",
+    "geo_krs": "heilbronn",
+    "obj_zipCode": "74078",
+    "obj_condition": "well_kept",
+    "obj_interiorQual": "no_information",
+    "obj_energyEfficiencyClass": "D",
+    "obj_parkingSpace": "no_information",
+    "obj_street": "no_information",
+    "obj_lift": "n",
+    "obj_streetPlain": "no_information",
+    "obj_typeOfFlat": "roof_storey",
+    "obj_noRooms": "3",
+    "obj_thermalChar": "117.3",
+    "obj_assistedLiving": "n",
+    "obj_lastRefurbish": "2019",
+    "obj_ityp": "2,active",
+    "goog_abt": "0",
+    "obj_telekomInternetAvailable": "true",
+    "geo_land": "deutschland",
+    "obj_immotype": "wohnung_kauf",
+    "obj_rented": "n",
+    "obj_privateOfferInvestmentCheck": "false",
+    "obj_contactFormInputFieldCount": "19",
+    "obj_floor": "1",
+    "obj_telekomInternetSpeed": "100 MBit/s",
+    "obj_cwId": "002.01007951263",
+    "obj_purchasePrice": "439000",
+    "obj_numberOfFloors": "2",
+    "geo_bg": "neckargartach",
+    "obj_noRoomsRange": "3",
+    "obj_garden": "y",
+    "evt_count_pm_sig": "showqualicontactform",
+    "obj_barrierFree": "n",
+    "obj_international": "n",
+    "obj_regio3": "Neckargartach",
+    "obj_objectnumber": "205183",
+    "obj_livingSpaceRange": "6",
+    "obj_regio2": "Heilbronn"
+  }
+}
+
